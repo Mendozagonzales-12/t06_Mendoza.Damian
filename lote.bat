@@ -114,7 +114,128 @@ python Mendoza/Multiple09.py 120 15
 python Mendoza/Multiple09.py 5 20
 python Mendoza/Multiple09.py 2 30
 
-python Mendoza/Multiple10.py "Libra"
-python Mendoza/Multiple10.py "Virgo"
-python Mendoza/Multiple10.py "Sagitario"
+python Mendoza/Multiple10.py "LIBRA"
+python Mendoza/Multiple10.py "VIRGO"
+python Mendoza/Multiple10.py "SAGITARIO"
 
+
+
+python Damian/simple01.py 6 7
+python Damian/simple01.py 8 9
+python Damian/simple01.py 10 7
+
+python Damian/simple02.py 2 6
+python Damian/simple02.py 5 7
+python Damian/simple02.py 8 9
+
+python Damian/simple03.py 15 45
+python Damian/simple03.py 25 30
+python Damian/simple03.py 6  17
+
+python Damian/simple04.py 1000 60
+python Damian/simple04.py 2000 50
+python Damian/simple04.py 3000 80
+
+python Damian/simple05.py  15 16 5
+python Damian/simple05.py  18 17 6
+python Damian/simple05.py  19 11 8
+
+python Damian/simple06.py 123.4 134.6 178.9
+python Damian/simple06.py 139.2 104.5 168.9
+python Damian/simple06.py 125.1 114.6 178.9
+
+python Damian/simple07.py 100 200
+python Damian/simple07.py 400 250
+python Damian/simple07.py 200 400
+
+python Damian/simple08.py 89.6 7.8
+python Damian/simple08.py 97.6 5.3
+python Damian/simple08.py 23.6 4.4
+
+python Damian/simple09.py 7 6 9
+python Damian/simple09.py 11 5 19
+python Damian/simple09.py 15 4 9
+
+python Damian/simple10.py 9 7
+python Damian/simple10.py 6 5
+python Damian/simple10.py 19 5
+
+python Damian/doble01.py 6 7
+python Damian/doble01.py 8 9
+python Damian/doble01.py 10 7
+
+python Damian/doble02.py 2 6
+python Damian/doble02.py 5 7
+python Damian/doble02.py 8 9
+
+python Damian/doble03.py 15 45
+python Damian/doble03.py 25 30
+python Damian/doble03.py 6  17
+
+python Damian/doble04.py 1000 60
+python Damian/doble04.py 2000 50
+python Damian/doble04.py 3000 80
+
+python Damian/doble05.py  15 16 5
+python Damian/doble05.py  18 17 6
+python Damian/doble05.py  19 11 8
+
+python Damian/doble06.py 123.4 134.6 178.9
+python Damian/doble06.py 139.2 104.5 168.9
+python Damian/doble06.py 125.1 114.6 178.9
+
+python Damian/doble07.py 100 200
+python Damian/doble07.py 400 250
+python Damian/doble07.py 200 400
+
+python Damian/doble08.py 89.6 7.8
+python Damian/doble08.py 97.6 5.3
+python Damian/doble08.py 23.6 4.4
+
+python Damian/doble09.py 7 6 9
+python Damian/doble09.py 11 5 19
+python Damian/doble09.py 15 4 9
+
+python Damian/doble10.py 9 7
+python Damian/doble10.py 6 5
+python Damian/doble10.py 19 5
+
+python Damian/multiple01.py 6 7
+python Damian/multiple01.py 8 9
+python Damian/multiple01.py 10 7
+
+python Damian/multiple02.py 2 6
+python Damian/multiple02.py 5 7
+python Damian/multiple02.py 8 9
+
+python Damian/multiple03.py 15 45
+python Damian/multiple03.py 25 30
+python Damian/multiple03.py 6  17
+
+python Damian/multiple04.py 1000 60
+python Damian/multiple04.py 2000 50
+python Damian/multiple04.py 3000 80
+
+python Damian/multiple05.py  15 16 5
+python Damian/multiple05.py  18 17 6
+python Damian/multiple05.py  19 11 8
+
+python Damian/multiple06.py 123.4 134.6 178.9
+python Damian/multiple06.py 139.2 104.5 168.9
+python Damian/multiple06.py 125.1 114.6 178.9
+
+python Damian/multiple07.py 100 200
+python Damian/multiple07.py 400 250
+python Damian/multiple07.py 200 400
+
+python Damian/multiple08.py 89.6 7.8
+python Damian/multiple08.py 97.6 5.3
+python Damian/multiple08.py 23.6 4.4
+
+python Damian/multiple09.py 7 6 9
+python Damian/multiple09.py 60 5 24
+python Damian/multiple09.py 10 20 15
+
+python Damian/multiple10.py 1.4 0.7
+python Damian/multiple10.py 1.5 3.5
+python Damian/multiple10.py 2.0 1.7
